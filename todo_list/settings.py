@@ -122,7 +122,7 @@ USE_TZ = True
 
 LOGIN_URL = 'login'
 
-STATIC_URL = 'static/'
+STATIC_URL = '/staticfiles/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
